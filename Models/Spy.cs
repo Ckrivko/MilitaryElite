@@ -19,7 +19,7 @@ namespace MilitaryElite.Models
         {
             return base.ToString() +
                 Environment.NewLine +
-                $"Code number: {this.CodeNumber}";
+                $"Code Number: {this.CodeNumber}";
         }
 
     }
